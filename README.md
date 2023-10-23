@@ -21,7 +21,7 @@ Em resumo o sistema destinado a simplificar o gerenciamento de obras, proporcion
 
 Essas informações incluem o acompanhamento do progresso das obras, com a disponibilidade de gráficos que facilitam a compreensão. Além disso, o sistema nos ajudará a identificar em quais pontos o projeto está atrasado e, mais importante ainda, as razões para esse atraso. Também teremos controle sobre o andamento da obra em relação aos prazos planejados.
 
-Em resumo, o sistema 1.2 oferecerá uma visão abrangente do status das obras, com dados claros e gráficos informativos, facilitando o gerenciamento e a tomada de decisões informadas.
+O sistema 1.2 oferecerá uma visão abrangente do status das obras, com dados claros e gráficos informativos, facilitando o gerenciamento e a tomada de decisões informadas.
 
 ## Autor
 
